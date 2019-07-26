@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">androidDay2Project</string>
+    <string name="textview">TextView</string>
+</resources>
